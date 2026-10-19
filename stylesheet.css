@@ -1,0 +1,10 @@
+html, body {
+    height: 100%;
+}
+
+body {
+    display: grid;
+    place-items: center;
+    background-color: #2a2263;
+    color: #f7999e;
+}
